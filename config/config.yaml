@@ -99,5 +99,3 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
-  - id: "36kr"
-    name: "36氪"
